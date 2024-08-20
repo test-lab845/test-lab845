@@ -9,4 +9,5 @@
 <!---
 test-lab845/test-lab845 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->![app-testing-icon-simple-element-from-vector-34151964](https://github.com/user-attachments/assets/a6e5238f-2de8-47c3-a755-c1e8e65325c9)
+
